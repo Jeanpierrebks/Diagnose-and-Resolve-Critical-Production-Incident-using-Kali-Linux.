@@ -14,6 +14,15 @@ The analyst will systematically investigate the application server by leveraging
 - Practiced service restoration procedures by validating corrective changes and confirming application availability post-remediation, mirroring production incident resolution workflows.
 
 ### Tools Used
-
+| Tools      | Purpose                                     |
+|------------|---------------------------------------------|
+|ls / ls -la | Directory listing and permission inspection |
+|cd / pwd    | Filesystem navigation and path verification |
+|find        | Locating files and directories across the system |
+|chmod / chown | Modifying file permissions and ownership |
+|cat / less / grep | Log reading and pattern-based output filtering |
+|ps / top    | Process inspection and service status monitoring |
+|systemctl   | Managing and restarting application services |
+|Kali Linux  | Primary operating environment for investigation |
 
 ## Steps
